@@ -7,6 +7,8 @@ namespace linecompprob
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to line comparison problem");
+            linecomp lin = new linecomp();
+            lin.calculatinglinelength();
         }
     }
 }
