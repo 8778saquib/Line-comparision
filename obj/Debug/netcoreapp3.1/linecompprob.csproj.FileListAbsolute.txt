@@ -1,0 +1,13 @@
+/Users/saquib/Desktop/linecompprob/linecompprob/bin/Debug/netcoreapp3.1/linecompprob.deps.json
+/Users/saquib/Desktop/linecompprob/linecompprob/bin/Debug/netcoreapp3.1/linecompprob.runtimeconfig.json
+/Users/saquib/Desktop/linecompprob/linecompprob/bin/Debug/netcoreapp3.1/linecompprob.runtimeconfig.dev.json
+/Users/saquib/Desktop/linecompprob/linecompprob/bin/Debug/netcoreapp3.1/linecompprob.dll
+/Users/saquib/Desktop/linecompprob/linecompprob/bin/Debug/netcoreapp3.1/linecompprob.pdb
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.csproj.AssemblyReference.cache
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.AssemblyInfoInputs.cache
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.AssemblyInfo.cs
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.csproj.CoreCompileInputs.cache
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.dll
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.pdb
+/Users/saquib/Desktop/linecompprob/linecompprob/obj/Debug/netcoreapp3.1/linecompprob.genruntimeconfig.cache
