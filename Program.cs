@@ -9,6 +9,7 @@ namespace linecompprob
             Console.WriteLine("Welcome to line comparison problem");
             linecomp lin = new linecomp();
             lin.calculatinglinelength();
+            lin.compequal();
         }
     }
 }
