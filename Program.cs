@@ -10,6 +10,7 @@ namespace linecompprob
             linecomp lin = new linecomp();
             lin.calculatinglinelength();
             lin.compequal();
+            lin.comparisons();
         }
     }
 }
